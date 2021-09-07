@@ -11,7 +11,7 @@ My favorite place is **my home** in India it will be very calm and peacefull and
     1. from kansas to philadelphia.
     2. from philadelphia to doha.
     3. from doha to hyderabad.
-  items that should be brought to your favorite place for maximum enjoyment. 
+  -items that should be brought to your favorite place for maximum enjoyment. 
     - games.
     - puzzles.
     - blind fold.
