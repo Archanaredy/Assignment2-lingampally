@@ -19,3 +19,15 @@ My favorite place is **my home** in India it will be very calm and peacefull and
     - party. 
   
   [text](AboutMe.md)
+
+  ***suggesting good food***
+
+  **food recomandations** that i would like to recommend someone to try
+  
+  |food/drink item| Location| money to pay|
+  |---|---|---:|
+  | pav bhaji | mahabubnagar | 60 |
+  | samosa | hyderabad |20 |
+  | manchuria | hyderabad | 60 |
+  | chikenbriyani | hyderabad paradise | 200 |
+
