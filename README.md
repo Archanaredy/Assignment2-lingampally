@@ -18,12 +18,12 @@ My favorite place is **my home** in India it will be very calm and peacefull and
     - soft drinks.
     - party. 
   
-  [text](AboutMe.md)
+  [ArchanaReddy](AboutMe.md)
 
   ***suggesting good food***
 
   **food recomandations** that i would like to recommend someone to try
-  
+
   |food/drink item| Location| money to pay|
   |---|---|---:|
   | pav bhaji | mahabubnagar | 60 |
@@ -31,3 +31,9 @@ My favorite place is **my home** in India it will be very calm and peacefull and
   | manchuria | hyderabad | 60 |
   | chikenbriyani | hyderabad paradise | 200 |
 
+  ***Quatation of the day***
+  # Favourite quotes
+
+  >If you want to **live a happy life**, tie it to a goal. Not to a pepole or things.<br>
+  >Serve the mother nation **until you die**.
+  *Albert einstine.*
