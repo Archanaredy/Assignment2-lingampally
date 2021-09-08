@@ -39,6 +39,7 @@ My favorite place is **my home** in India it will be very calm and peacefull and
   *Albert einstein.*
 
   *** code fencing ***
+  # algorithm to find fibonacci series in java 
 
   >Fibonacci series is a series of numbers in which each number ( Fibonacci number ) is the sum of the two preceding numbers. The simplest is the series 1, 1, 2, 3, 5, 8, etc.
   [Link to the source](https://www.google.com/search?q=what+are+fibonacci+numbers&rlz=1C1GCEA_enUS967US968&oq=what+are+fibi&aqs=chrome.1.69i57j0i10l9.9157j0j7&sourceid=chrome&ie=UTF-8)
