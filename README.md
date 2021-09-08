@@ -36,4 +36,4 @@ My favorite place is **my home** in India it will be very calm and peacefull and
 
   >If you want to **live a happy life**, tie it to a goal. Not to a pepole or things.<br>
   >Serve the mother nation **until you die**.
-  *Albert einstine.*
+  *Albert einstein.*
